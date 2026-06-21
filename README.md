@@ -1,6 +1,6 @@
-# Observer pattern — starter (in-class assignment)
+# Weather dashboard
 
-This is the **starter** for the in-class Observer pattern assignment. The app
+This is the **starter** code for the weather dashboard app. The app
 runs, but it is wired together badly and has a few bugs. Your job is to read the
 code, find the problems, and refactor it into a proper Observer pattern.
 
